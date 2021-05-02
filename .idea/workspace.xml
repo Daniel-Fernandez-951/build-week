@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="956c07af-cccf-45d5-933a-93247f12571a" name="Default Changelist" comment="Pycharm IDE update">
-      <change beforePath="$PROJECT_DIR$/.idea/build-week.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/build-week.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Build-2/mach-v1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Build-2/mach-v1.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="956c07af-cccf-45d5-933a-93247f12571a" name="Default Changelist" comment="Changed figure theme font, color and more analysis visualizations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1619945150464</updated>
       <workItem from="1619945151659" duration="9840000" />
+      <workItem from="1619989226950" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="Project gitignore copied from local global">
       <created>1619945749425</created>
@@ -65,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619945900733</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changed figure theme font, color and more analysis visualizations">
+      <created>1619989312565</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619989312565</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,11 +84,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Project gitignore copied from local global" />
     <MESSAGE value="Pycharm IDE update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pycharm IDE update" />
+    <MESSAGE value="Changed figure theme font, color and more analysis visualizations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed figure theme font, color and more analysis visualizations" />
   </component>
 </project>
